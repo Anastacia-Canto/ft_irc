@@ -1,1 +1,2 @@
 https://celeo.github.io/2021/06/18/Implementing-an-IRC-server-from-scratch-part-1/
+https://github.com/barimehdi77/ft_irc
